@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Square background -->
+  <rect x="0" y="0" width="64" height="64" rx="12" fill="#b0d4fd" />
+
+  <!-- Upload arrow (centered) -->
+  <path d="M32 16L32 36" stroke="#007BFF" stroke-width="4" stroke-linecap="round"/>
+  <polyline points="24,24 32,16 40,24" fill="none" stroke="#007BFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Thinner base (centered) -->
+  <rect x="20" y="40" width="24" height="6" rx="3" fill="#007BFF"/>
+</svg>
