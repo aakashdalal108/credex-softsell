@@ -5,8 +5,8 @@ const ChooseUS = () => {
   const features = [
     {
       icon: '/price.svg',
-      title: 'Total Control',
-      text: 'Set your own pricing, usage rights, and licensing conditions.',
+      title: 'Price Control',
+      text: 'Set your own pricing, usage rights, and  conditions.',
     },
     {
       icon: '/payout.svg',
@@ -44,7 +44,7 @@ const ChooseUS = () => {
           >
             <img className="w-20 my-2" src={item.icon} alt={item.title} />
             <h2 className="text-xl font-bold">{item.title}</h2>
-            <p className="text-sm px-4">{item.text}</p>
+            <p className="p-4 text-lg">{item.text}</p>
           </motion.div>
         ))}
       </div>
