@@ -53,7 +53,7 @@ const Testimonials = () => {
           viewport={{ once: true }}
         >
           <img className='w-20 rounded-full p-1 border border-violet-600 ' src="/avtar.png" alt="" />
-          <p className='p-4 text-lg'q>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, numquam quibusdam.</p>
+          <p className='p-4 text-lg'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, numquam quibusdam.</p>
           <h3 className='text-violet-600 p-2 italic'>-James, Marketing Director, Nividia  </h3>
         </motion.div>
       </div>
