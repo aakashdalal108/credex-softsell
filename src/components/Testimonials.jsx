@@ -52,7 +52,7 @@ const Testimonials = () => {
           transition={{ duration: 0.5, delay: 0.5 }}
           viewport={{ once: true }}
         >
-          <img className='w-20 rounded-full p-1 border border-violet-600 ' src="/avtar.png" alt="" />
+          <img className='w-20 rounded-full flex justify-between items-center p-1 border border-violet-600 ' src="/avtar.png" alt="" />
           <p className='p-4 text-lg'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum, numquam quibusdam.</p>
           <h3 className='text-violet-600 p-2 italic'>-James, Marketing Director, Nividia  </h3>
         </motion.div>
