@@ -27,7 +27,7 @@ const Work = () => {
           </div>
           <div>
             <h2 className='text-xl font-bold'>Upload Licence</h2>
-            <p className='text-sm px-4'>Get started by uploading your license</p>
+            <p className='p-4 text-lg'>Get started by uploading your license</p>
           </div>
         </motion.div>
 
@@ -43,7 +43,7 @@ const Work = () => {
           </div>
           <div>
             <h2 className='text-xl font-bold'>Get Valuation</h2>
-            <p className='text-sm px-4'>Get an Instant valuation and data protection</p>
+            <p className='p-4 text-lg'>Get an Instant valuation and data protection</p>
           </div>
         </motion.div>
 
@@ -59,7 +59,7 @@ const Work = () => {
           </div>
           <div>
             <h2 className='text-xl font-bold'>Get Paid</h2>
-            <p className='text-sm px-4'>Instant Payouts for Every License Sold</p>
+            <p className='p-4 text-lg'>Instant Payouts for Every License Sold</p>
           </div>
         </motion.div>
       </div>
@@ -73,7 +73,7 @@ const Work = () => {
       >
         <div className='my-5 p-6'>
           <b>Upload Your License -</b>
-          <p className='m-2 text-sm text-gray-700'>
+          <p className=' text-sm text-gray-700'>
             Start by submitting your license details through our easy-to-use online form.
             Whether you're looking to offload enterprise software, antivirus packages, or
             design tools, our system is built to handle a wide range of license types. We
@@ -84,7 +84,7 @@ const Work = () => {
 
         <div className='my-3 p-6'>
           <b>Get an Instant, Transparent Valuation -</b>
-          <p className='m-2 text-sm text-gray-700'>
+          <p className=' text-sm text-gray-700'>
             Once you submit your license, our smart valuation engine steps in. It analyzes
             key factors such as the software's brand, license validity, remaining
             duration, current market demand, and resale potential. Within moments, you'll
@@ -95,7 +95,7 @@ const Work = () => {
 
         <div className='my-3 p-6'>
           <b>Get Paid Quickly and Securely -</b>
-          <p className='m-2 text-sm text-gray-700'>
+          <p className=' text-sm text-gray-700'>
             Happy with the offer? Simply accept it and provide your preferred payout method
             — whether it’s bank transfer, UPI, PayPal, or another trusted method. Our team
             handles all the logistics, ensuring a smooth license transfer and immediate
