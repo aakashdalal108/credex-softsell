@@ -10,7 +10,7 @@ const Chat = () => {
   };
 
   return (
-    <div>
+    <div className='hidden md:block'>
       
       {!isChatOpen && (
         <div
